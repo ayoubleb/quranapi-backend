@@ -4,3 +4,4 @@ An app as a backend for different client to serve quran based on some criterions
 just pull the project and install dependecies via maven
 # Endpoints 
 https://alquran.cloud/api
+# _________
